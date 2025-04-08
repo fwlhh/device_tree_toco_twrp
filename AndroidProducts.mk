@@ -7,7 +7,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_toco.mk
-
+    
 COMMON_LUNCH_CHOICES := \
     twrp_toco-user \
     twrp_toco-userdebug \
