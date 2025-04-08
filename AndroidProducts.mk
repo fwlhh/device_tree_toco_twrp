@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_toco.mk
+    $(LOCAL_DIR)/twrp_toco.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_toco-user \
-    omni_toco-userdebug \
-    omni_toco-eng
+    twrp_toco-user \
+    twrp_toco-userdebug \
+    twrp_toco-eng
